@@ -1,5 +1,9 @@
 # Readable-Unreadable Passwords Generator for Telegram
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kraloveckey)
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cyber_notes)
+
 This bot allows to generate readable and unreadable passwords directly from Telegram without necessity to open external utilities such as KeePass. An inspiration for this bot (readable passwords) came from famous [XKCD 936](http://xkcd.com/936/) strip.  
 
 ### Features 
